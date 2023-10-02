@@ -1,0 +1,7 @@
+H:\Computer Science\Practice Programming\slots\slots\obj\Debug\slots.csproj.AssemblyReference.cache
+H:\Computer Science\Practice Programming\slots\slots\obj\Debug\slots.csproj.CoreCompileInputs.cache
+H:\Computer Science\Practice Programming\slots\slots\bin\Debug\slots.exe.config
+H:\Computer Science\Practice Programming\slots\slots\bin\Debug\slots.exe
+H:\Computer Science\Practice Programming\slots\slots\bin\Debug\slots.pdb
+H:\Computer Science\Practice Programming\slots\slots\obj\Debug\slots.exe
+H:\Computer Science\Practice Programming\slots\slots\obj\Debug\slots.pdb
